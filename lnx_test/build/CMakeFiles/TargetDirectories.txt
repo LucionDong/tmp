@@ -1,0 +1,5 @@
+/home/lucion/LNX-master/lnx_test/build/CMakeFiles/edit_cache.dir
+/home/lucion/LNX-master/lnx_test/build/CMakeFiles/rebuild_cache.dir
+/home/lucion/LNX-master/lnx_test/build/plugins/modbus-tcp/CMakeFiles/plugin-modbus-tcp.dir
+/home/lucion/LNX-master/lnx_test/build/plugins/modbus-tcp/CMakeFiles/edit_cache.dir
+/home/lucion/LNX-master/lnx_test/build/plugins/modbus-tcp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libplugin-modbus-tcp.so -o ../libplugin-modbus-tcp.so CMakeFiles/plugin-modbus-tcp.dir/modbus_tcp.c.o   -L/usr/local/lib  -L/usr/local/lib/neuron  -Wl,-rpath,./:/usr/local/lib:/usr/local/lib/neuron -lneuron-base 
